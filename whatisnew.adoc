@@ -1,5 +1,6 @@
 = What’s New in Oracle JDK 9
-[https://docs.oracle.com/javase/9/whatsnew/toc.htm]原文
+
+https://docs.oracle.com/javase/9/whatsnew/toc.htm[英文原文]
 
 E77563-05
 
