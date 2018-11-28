@@ -130,10 +130,11 @@ The JShell API enables applications to leverage REPL functionality. See the jdk.
 
 JShell API 允许应用程序借助 REPL 功能。参考 https://docs.oracle.com/javase/9/docs/api/jdk.jshell-summary.html[jdk.jshell] 包.
 
-|JEP 228: Add More Diagnostic Commands
-|Defines additional diagnostic commands to improve the ability to diagnose issues with Hotspot and the JDK.
+|JEP 228: 增加更多诊断命令
+|定义了更多的诊断命令方便诊断 Hotspot 及 JDK 的问题。
 
 See jcmd in Java Platform, Standard Edition Tools Reference.
+参考 JavaSE 工具参考中的 jcmd 。
 
 |JEP 231: Remove Launch-Time JRE Version Selection
 |Removes the ability to request a version of the JRE that is not the JRE being launched at launch time.
